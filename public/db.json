@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "nombre": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "equipo": "Manchester United",
+        "imagen": "/assets/images/cristiano-ronaldo.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": "İlkay Gündoğan",
+        "pais": "Alemania",
+        "equipo": "Manchester City",
+        "imagen": "/assets/images/gundogan.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mohamed Salah",
+        "pais": "Egipto",
+        "equipo": "Liverpool",
+        "imagen": "./assets/images/salah.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Pierre-Emerick Aubameyan",
+        "pais": "República Gabonesa",
+        "equipo": "Barcelona",
+        "imagen": "./assets/images/aubameyang.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Erling Haaland",
+        "pais": "Noruega",
+        "equipo": "Real Madrid",
+        "imagen": "./assets/images/haaland.jpg"
+    }
+]
